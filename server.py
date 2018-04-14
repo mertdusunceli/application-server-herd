@@ -10,7 +10,7 @@ import logging
 
 # "Goloman": 18190, "Hands": 18191, "Holiday": 18192, "Wilkes": 18193, "Welsh": 18194
 
-API_KEY = 'AIzaSyDgDkOicr6WtxY1ddWowwgP_pDdVqRPagM'
+API_KEY = 10 
 
 class Server:
     def __init__(self, ID):
